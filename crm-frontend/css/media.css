@@ -1,0 +1,102 @@
+@media (max-width: 920px) {
+  .th-sort {
+    padding: 1px 10px 10px 10px;
+  }
+
+  .th-id {
+    width: 94px;
+  }
+
+  .th-fio {
+    width: 190px;
+  }
+
+  .th-date {
+    width: 98px;
+  }
+
+  .th-contacts {
+    width: 130px;
+  }
+
+  .th-action {
+    width: 22%;
+  }
+
+  .td-body {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .td-action-wrapp {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+}
+
+@media (max-width: 760px) {
+  .form-filter {
+    max-width: 581px;
+  }
+
+  .container-main {
+    padding: 44px 0 102px 0;
+  }
+
+  .title-table {
+    padding-left: 20px;
+  }
+
+  .wrapper-table {
+    padding: 0 20px 0 20px;
+  }
+
+  .table-clients {
+    width: 720px;
+  }
+}
+
+@media (max-width: 575px) {
+  .container-header {
+    justify-content: center;
+    padding: 8px;
+  }
+
+  .logo-img {
+    width: 24px;
+    height: 24px;
+  }
+
+  .form-filter {
+    display: none;
+  }
+
+  .container-main {
+    padding: 30px 0 176px 0;
+  }
+
+  .title-table {
+    padding-left: 10px;
+    font-size: 18px;
+  }
+
+  .wrapper-table {
+    padding: 0 10px 0 10px;
+  }
+
+  .table-clients {
+    width: 728px;
+  }
+
+  .modal-wrapp {
+    padding: 0 10px;
+  }
+
+  .choices {
+    min-width: 110px;
+  }
+
+  .contact-block-mb {
+    padding: 25px 10px;
+  }
+}
